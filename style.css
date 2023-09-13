@@ -1,0 +1,71 @@
+/* Titile Styles */
+.title {
+    font-size: 48px;
+    text-align: center;
+
+}
+
+/* Money Img Styles */
+.money-img img {
+    width: 100%;
+    height: 815px;
+}
+
+.calculate-feild {
+    background: #F8F8F8;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.input {
+    background: #dcdcdc70;
+    border: 1px solid;
+    padding: 4px 15px;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+.comon-class {
+    margin-right: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.input:focus {
+    border: 1px solid;
+
+}
+
+.custom-btn {
+    background: #59A5FF;
+    border: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px 50px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+#saving {
+    width: 15%;
+}
+
+.persentage {
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+.custom-btn2 {
+    padding: 2px 15px;
+    border: none;
+    background: #59A5FF;
+    color: white;
+    font-weight: 500;
+
+
+
+}
